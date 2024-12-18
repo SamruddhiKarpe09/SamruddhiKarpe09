@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamruddhiKarpe09
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning B.E in COMPUTER ENGINEERING
+- 🌱 I’m have Completed B.E in COMPUTER ENGINEERING
 - 
 
 
